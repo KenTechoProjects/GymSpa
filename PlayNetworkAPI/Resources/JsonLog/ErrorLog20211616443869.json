@@ -1,0 +1,1 @@
+"[PNAAPI][Adding new Cord][Response] => 'Domain.Application.GymSpa.DTO.ServerResponse' does not contain a definition for 'Id' | [request]=> {\"Id\":0,\"Discount\":0.0,\"Discount_Level\":0,\"ProductID\":0,\"PnaVendorID\":0,\"PnaVendor\":null,\"Products\":[]}| [requestId]=> 9315086703"

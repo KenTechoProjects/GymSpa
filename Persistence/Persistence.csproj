@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200917090951_added_sys_logs.cs" />
+    <Compile Remove="Migrations\20200917090951_added_sys_logs.Designer.cs" />
+    <Compile Remove="Migrations\20200918152823_added_pnatables.cs" />
+    <Compile Remove="Migrations\20200918152823_added_pnatables.Designer.cs" />
+    <Compile Remove="Migrations\20200918180334_added_systemrole.cs" />
+    <Compile Remove="Migrations\20200918180334_added_systemrole.Designer.cs" />
+    <Compile Remove="Migrations\20200918201440_added_supermember.cs" />
+    <Compile Remove="Migrations\20200918201440_added_supermember.Designer.cs" />
+    <Compile Remove="Migrations\20200919191749_added_ememodify.cs" />
+    <Compile Remove="Migrations\20200919191749_added_ememodify.Designer.cs" />
+    <Compile Remove="Migrations\20200919200841_added_supermemberauth.cs" />
+    <Compile Remove="Migrations\20200919200841_added_supermemberauth.Designer.cs" />
+    <Compile Remove="Migrations\20200921141030_added_sub.cs" />
+    <Compile Remove="Migrations\20200921141030_added_sub.Designer.cs" />
+    <Compile Remove="Migrations\20200921171134_modify_membertbl.cs" />
+    <Compile Remove="Migrations\20200921171134_modify_membertbl.Designer.cs" />
+    <Compile Remove="Migrations\20200921171745_changedatatype.cs" />
+    <Compile Remove="Migrations\20200921171745_changedatatype.Designer.cs" />
+    <Compile Remove="Migrations\20201111194654_tofirst.cs" />
+    <Compile Remove="Migrations\20201111194654_tofirst.Designer.cs" />
+    <Compile Remove="Migrations\20210227104040_fdjdfkfdfdd.cs" />
+    <Compile Remove="Migrations\20210227104040_fdjdfkfdfdd.Designer.cs" />
+    <Compile Remove="Migrations\20210227104314_kfdkfkfd.cs" />
+    <Compile Remove="Migrations\20210227104314_kfdkfkfd.Designer.cs" />
+    <Compile Remove="Migrations\20210227104713_slfjdfllddf.cs" />
+    <Compile Remove="Migrations\20210227104713_slfjdfllddf.Designer.cs" />
+    <Compile Remove="Migrations\20210227105002_jdfjdflf.cs" />
+    <Compile Remove="Migrations\20210227105002_jdfjdflf.Designer.cs" />
+    <Compile Remove="Migrations\20210227105235_ldmdfldmfldmld.cs" />
+    <Compile Remove="Migrations\20210227105235_ldmdfldmfldmld.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="3.1.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.8" />
+  </ItemGroup>
+
+</Project>

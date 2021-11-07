@@ -1,0 +1,14 @@
+{
+  "amount": "3000",
+  "customerName": "Dims Kemson",
+  "customerEmail": "andtechhub@gmail.com",
+  "paymentReference": "be2d84b58b4a9cb",
+  "paymentDescription": "Membership Subscription",
+  "currencyCode": "NGN",
+  "contractCode": "7218558619",
+  "redirectUrl": "",
+  "paymentMethods": [
+    "CARD",
+    "ACCOUNT_TRANSFER"
+  ]
+}

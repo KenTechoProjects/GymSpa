@@ -1,0 +1,1 @@
+"[PNAAPI][Monnify Debit PNA][Response] => Object reference not set to an instance of an object. | [requestId]=> 8940265782" "[PNAAPI][Make_order_payment][Response] => Object reference not set to an instance of an object. | [request]=> {\"OrderId\":\"32df88f\",\"TransactionPin\":\"1922\",\"WalletId\":\"485370480\",\"amount\":5995.0}| [requestId]=> 4569218204"

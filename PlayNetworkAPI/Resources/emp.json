@@ -1,0 +1,21 @@
+{
+  "SMS": {
+    "auth": {
+      "username": "andtechhub@gmail.com",
+      "apikey": "75e879a8fb4f442130fa87db30d1de6f485044a9"
+    },
+    "message": {
+      "sender": "PNA",
+      "messagetext": "Hello your company account has been created on Play Network Africa (PNA) here is your Vendor code:5eebb, kindly check this bravedims@hotmail.com for other instruction",
+      "flash": "0"
+    },
+    "recipients": {
+      "gsm": [
+        {
+          "msidn": "08068688261",
+          "msgid": "uniqueid1"
+        }
+      ]
+    }
+  }
+}

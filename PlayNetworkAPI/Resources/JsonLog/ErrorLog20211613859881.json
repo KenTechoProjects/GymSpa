@@ -1,0 +1,1 @@
+"[PNAAPI][Make_order_payment][Response] => Cannot read from a closed TextReader.\r\nObject name: 'StreamReader'. | [request]=> {\"OrderId\":\"32df88f\",\"TransactionPin\":\"1922\",\"WalletId\":\"485370480\",\"amount\":5995.0}| [requestId]=> 2735160312"

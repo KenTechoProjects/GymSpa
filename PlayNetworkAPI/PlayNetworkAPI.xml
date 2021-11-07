@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PlayNetworkAPI</name>
+    </assembly>
+    <members>
+        <member name="M:PlayNetworkAPI.Controllers.GymSpaController.CreateDutyRoaster(Domain.Application.GymSpa.DTO.DutyRoasterDTOView)">
+             <summary>
+            
+             </summary>
+             <param name="model"></param>
+             <returns></returns>
+        </member>
+        <member name="M:PlayNetworkAPI.Controllers.GymSpaController.CreateProduct(Domain.Application.GymSpa.DTO.ProductDTOView)">
+             <summary>
+            
+             </summary>
+             <param name="model"></param>
+             <returns></returns>
+        </member>
+        <member name="M:PlayNetworkAPI.Controllers.GymSpaController.CreateWorkingDays(Domain.Application.GymSpa.DTO.DurationDTOView[])">
+             <summary>
+            
+             </summary>
+             <param name="model"></param>
+             <returns></returns>
+        </member>
+        <member name="M:PlayNetworkAPI.Controllers.GymSpaController.CreateDuration(Domain.Application.GymSpa.DTO.DurationDTOView)">
+             <summary>
+            
+             </summary>
+             <param name="model"></param>
+             <returns></returns>
+        </member>
+        <member name="M:PlayNetworkAPI.Controllers.GymSpaController.CreateProductCategory(Domain.Application.GymSpa.DTO.ProductCategoryDTOView)">
+             <summary>
+            
+             </summary>
+             <param name="model"></param>
+             <returns></returns>
+        </member>
+        <member name="M:PlayNetworkAPI.Controllers.GymSpaController.ApproveAppointment(System.Int64,System.Int32)">
+             <summary>
+            
+             </summary>
+             <param name="appointmentId"></param>
+             <param name="vendorId"></param>
+             <returns></returns>
+        </member>
+    </members>
+</doc>
